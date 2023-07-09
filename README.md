@@ -55,14 +55,8 @@ If everything is set up _correctly_, you should see a new app running in _Androi
 This is one way to run your app — also, you can run it directly from within Android Studio and Xcode, respectively.
 
 
-### Demo and Screenshots
-Here are some screenshots of the app working on my local machine.
+### Demo
+Here is a demo of the app working on my local machine.
 
 ##### Demo
 https://github.com/khamkarsuraj/music-app/assets/112414255/9eeeaf30-0fae-473a-af90-e844f093c2c4
-
-##### Home Screen
-![Alt text](https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png)
-
-##### Song on repeat
-![Alt text](https://github.com/khamkarsuraj/music-app/blob/main/working/repeat.png)
