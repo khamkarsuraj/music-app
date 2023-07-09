@@ -1,6 +1,7 @@
-# Getting Started
+## Introduction
+This is a single-page React Native application that supports Android and iOS devices to play songs with features like repeat modes, share, like, and delete.
 
-### This is a single-page React Native application that supports Android and iOS devices to play songs with features like repeat modes, share, like, and delete.
+# Getting Started
 
 ## Step 1: Start the Metro Server
 
