@@ -56,11 +56,14 @@ This is one way to run your app — also, you can run it directly from within An
 
 https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png
 
-### Screenshots
+### Demo and Screenshots
 Here are some screenshots of the app working on my local machine.
+
+##### Demo
+![Alt text](https://github.com/khamkarsuraj/music-app/blob/main/working/musicApp.mp4)
 
 ##### Home Screen
 ![Alt text](https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png)
 
 ##### Song on repeat
-![Alt text]('https://github.com/khamkarsuraj/music-app/blob/main/working/repeat.png' "Repeat Song")
+![Alt text](https://github.com/khamkarsuraj/music-app/blob/main/working/repeat.png)
