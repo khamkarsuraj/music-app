@@ -60,7 +60,7 @@ https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png
 Here are some screenshots of the app working on my local machine.
 
 ##### Home Screen
-![Alt text]('https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png' "Home Screen")
+![Alt text](https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png)
 
 ##### Song on repeat
 ![Alt text]('https://github.com/khamkarsuraj/music-app/blob/main/working/repeat.png' "Repeat Song")
