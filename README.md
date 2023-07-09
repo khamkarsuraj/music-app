@@ -53,3 +53,14 @@ npm run android
 If everything is set up _correctly_, you should see a new app running in _Android Emulator_ or _iOS Simulator_ shortly, provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — also, you can run it directly from within Android Studio and Xcode, respectively.
+
+https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png
+
+### Screenshots
+Here are some screenshots of the app working on my local machine.
+
+##### Home Screen
+![Alt text]('https://github.com/khamkarsuraj/music-app/blob/main/working/welcome.png' "Home Screen")
+
+##### Song on repeat
+![Alt text]('https://github.com/khamkarsuraj/music-app/blob/main/working/repeat.png' "Repeat Song")
